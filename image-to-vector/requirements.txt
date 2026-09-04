@@ -1,0 +1,5 @@
+numpy
+opencv-python
+numba
+numba-cuda
+nvidia-nvvm
